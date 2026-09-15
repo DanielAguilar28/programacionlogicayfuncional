@@ -1,6 +1,6 @@
 # El cálculo lambda de Alonzo Church (1936) como fundamento teórico de la programación funcional
 
-## 1. El Contexto Histórico: ¿Qué es y de dónde salió?
+## 1. Historia: ¿Qué es y de dónde salió?
 
 * **El Creador:** Alonzo Church, un matemático estadounidense, lo publicó en 1936.
 * **El Propósito Original:** Church intentaba resolver el *Entscheidungsproblem* (el problema de la decisión) propuesto por David Hilbert, para determinar si existe un algoritmo que pueda evaluar si cualquier afirmación matemática es verdadera o falsa.
