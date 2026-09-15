@@ -25,5 +25,5 @@
 
 ### ¿Qué aprendí del proceso de revisión?
 * Aprendí que delegar el análisis de fundamentos matemáticos complejos a la IA sirve muy bien para obtener la estructura.
-* Validar la información me ayudó a consolidar cómo conceptos abstractos como la conversión $\eta$ (Eta) o el *currying* no son simples "reglas de sintaxis", sino las decisiones arquitectónicas fundamentales que permiten a los compiladores optimizar y ejecutar código puramente funcional sin efectos secundarios.
+* Validar la información me ayudó a consolidar cómo conceptos abstractos como la conversión $\eta$, no son simples "reglas de sintaxis", sino las decisiones arquitectónicas fundamentales que permiten a los compiladores optimizar y ejecutar código puramente funcional sin efectos secundarios.
 * La mejora de la redactacion sobre una investigación para hacerla más completa y asi brindar un mejor trabajo
